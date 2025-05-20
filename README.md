@@ -1,4 +1,3 @@
-# TEST-RAM
 <!DOCTYPE html>
 <html lang="pl">
 <head>
